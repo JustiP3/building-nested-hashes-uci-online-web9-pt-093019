@@ -16,7 +16,8 @@ def third_challenge
         },
         :hero => {
           :name => "Romeo",
-          :age => "15"
+          :age => "15",
+          :status => "alive" 
         },
         #hero friends is an array of hashes representing each friend
         :hero_friends =>  []
@@ -42,5 +43,5 @@ def third_challenge
       }
      # end of epic tragedy
 
-   
+
 end
